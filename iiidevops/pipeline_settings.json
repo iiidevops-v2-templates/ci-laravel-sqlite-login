@@ -1,6 +1,6 @@
 {
   "name": "PHP-Laravel-SQLite",
-  "description": "Laravel 7-debian-10 (bitnami) <a class='el-link el-link--primary' href='https://github.com/iiidevops-templates/laravel-sqlite-login/blob/master/README.md' target='_blank'>登入(login)範本說明</a><hr /><ul><li><strong>v2.0</strong>:更新CI自動化腳本</li></ul>",
+  "description": "Laravel 7-debian-10 (bitnami) <a class='el-link el-link--primary' href='https://github.com/iiidevops-v2-templates/ci-laravel-sqlite-login/blob/master/README.md' target='_blank'>登入(login)範本說明</a><hr /><ul><li><strong>v2.0</strong>:更新CI自動化腳本</li></ul>",
   "arguments": [
   ]
 }
